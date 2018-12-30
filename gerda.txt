@@ -1,0 +1,42 @@
+Genre
+{
+Rock
+{
+Gorky park
+{
+Belov
+Marshal
+}
+Nirvana
+{
+Kurt Cobaine
+}
+}
+Jazz
+{
+Armstrong
+}
+}
+Mode
+{
+shirt
+Jeans
+T-Shirt
+}
+depeche mode
+{
+Dave Gahan
+{
+vocal
+}
+Martin Gore
+{
+guitar
+}
+Andy Fletcher
+{
+keyboard
+}
+}
+
+

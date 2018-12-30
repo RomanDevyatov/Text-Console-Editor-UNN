@@ -1,0 +1,29 @@
+Genre
+{
+Rock
+{
+Gorky park
+{
+Belov
+Marshal
+}
+Nirvana
+{
+Kurt Cobaine
+}
+Jazz
+{
+Armstrong
+}
+}
+wer
+Mode
+{
+shirt
+Jeans
+T-Shirt
+}
+qwert
+{
+type
+}
